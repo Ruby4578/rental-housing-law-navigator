@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Modules B and C: resolve addresses to jurisdictions, test each extracted rule's coverage,
 and track changes. Reads rules.json (from extract.py); writes lookups.json, changes.json,
-resolved_addresses.json and site/data.json (the file the web app loads).
+resolved_addresses.json and data.json (the file index.html loads; keep it next to index.html).
 
 Usage:
     python lookup.py --rules rules.json --addresses data/sample_addresses.csv \
@@ -370,7 +370,7 @@ def main():
     changes = run_tests(tests, rules, addrs, resolved, asof)
 
     outdir = Path(args.outdir)
-    (outdir / "site").mkdir(parents=True, exist_ok=True)
+    outdir.mkdir(parents=True, exist_ok=True)
     (outdir / "lookups.json").write_text(json.dumps({"as_of": args.as_of, "lookups": lookups}, indent=1))
     (outdir / "changes.json").write_text(json.dumps(
         {k: {kk: vv for kk, vv in v.items() if kk != "matched_rules"} for k, v in changes.items()}, indent=1))
@@ -379,9 +379,9 @@ def main():
               "default_as_of": args.as_of, "categories": CATS,
               "rules": rules, "addresses": [{**a, "resolved": resolved[a["address_id"]]} for a in addrs],
               "epochs": epochs, "tests": tests, "changes": changes}
-    (outdir / "site" / "data.json").write_text(json.dumps(bundle, separators=(",", ":")))
+    (outdir / "data.json").write_text(json.dumps(bundle, separators=(",", ":")))  # loaded by index.html
     n = sum(len(v) for v in lookups.values())
-    print(f"Wrote lookups.json ({n} results), changes.json, resolved_addresses.json, site/data.json")
+    print(f"Wrote lookups.json ({n} results), changes.json, resolved_addresses.json, data.json")
     for tid, c in changes.items():
         print(f"  {tid}: {len(c['affected_address_ids'])} affected"
               + (f", {len(c.get('conflict_flag_address_ids', []))} flagged" if "conflict_flag_address_ids" in c else "")
