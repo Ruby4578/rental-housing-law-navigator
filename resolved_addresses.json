@@ -1,0 +1,4002 @@
+{
+ "A0001": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0002": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0003": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0004": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0005": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0006": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0007": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0008": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0009": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0010": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0011": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0012": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0013": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0014": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0015": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0016": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0017": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0018": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0019": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0020": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0021": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0022": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0023": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0024": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0025": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0026": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0027": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0028": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0029": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0030": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0031": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0032": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0033": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0034": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0035": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0036": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0037": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0038": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0039": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0040": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0041": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0042": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0043": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0044": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0045": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0046": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0047": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0048": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0049": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0050": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0051": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0052": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0053": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0054": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0055": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0056": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0057": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0058": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0059": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0060": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0061": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0062": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0063": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0064": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0065": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0066": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0067": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0068": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0069": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0070": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0071": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0072": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0073": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0074": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0075": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0076": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0077": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0078": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0079": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0080": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0081": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0082": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0083": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0084": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0085": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0086": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0087": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0088": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0089": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0090": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0091": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0092": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0093": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0094": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0095": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0096": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0097": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0098": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0099": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0100": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0101": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0102": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0103": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0104": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0105": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0106": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0107": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0108": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0109": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0110": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0111": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0112": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0113": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0114": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0115": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0116": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0117": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0118": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0119": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0120": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0121": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0122": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0123": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0124": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0125": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0126": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0127": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0128": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0129": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0130": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0131": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0132": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0133": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0134": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0135": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0136": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0137": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0138": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0139": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0140": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0141": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0142": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0143": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0144": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0145": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0146": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0147": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0148": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0149": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0150": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0151": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0152": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0153": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0154": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0155": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0156": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0157": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0158": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0159": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0160": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0161": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0162": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0163": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0164": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0165": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0166": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0167": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0168": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0169": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0170": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0171": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0172": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0173": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0174": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0175": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0176": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0177": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0178": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0179": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0180": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0181": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0182": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0183": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0184": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0185": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0186": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0187": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0188": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0189": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0190": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0191": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0192": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0193": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0194": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0195": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0196": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0197": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0198": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0199": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0200": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0201": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0202": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0203": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0204": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0205": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0206": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0207": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0208": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0209": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0210": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0211": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0212": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0213": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0214": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0215": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0216": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0217": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0218": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0219": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0220": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0221": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0222": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0223": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0224": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0225": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0226": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0227": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0228": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0229": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0230": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0231": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0232": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0233": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0234": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0235": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0236": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0237": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0238": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0239": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0240": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0241": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0242": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0243": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0244": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0245": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0246": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0247": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0248": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0249": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0250": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0251": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0252": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0253": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0254": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0255": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0256": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0257": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0258": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0259": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0260": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0261": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0262": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0263": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0264": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0265": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0266": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0267": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0268": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0269": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0270": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0271": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0272": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0273": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0274": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0275": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0276": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0277": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0278": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0279": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0280": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0281": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0282": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0283": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0284": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0285": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0286": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0287": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0288": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0289": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0290": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0291": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0292": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0293": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0294": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0295": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0296": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0297": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0298": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0299": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0300": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0301": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0302": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0303": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0304": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0305": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0306": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0307": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0308": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0309": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0310": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0311": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0312": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0313": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0314": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0315": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0316": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0317": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0318": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0319": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0320": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0321": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0322": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0323": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0324": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0325": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0326": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0327": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0328": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0329": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0330": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0331": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0332": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0333": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0334": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0335": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0336": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0337": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0338": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0339": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0340": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0341": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0342": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0343": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0344": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0345": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0346": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0347": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0348": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0349": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0350": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0351": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0352": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0353": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0354": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0355": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0356": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0357": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0358": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0359": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0360": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0361": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0362": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0363": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0364": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0365": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0366": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0367": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0368": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0369": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0370": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0371": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0372": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0373": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0374": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0375": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0376": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0377": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0378": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0379": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0380": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0381": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0382": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0383": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0384": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0385": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0386": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0387": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0388": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0389": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0390": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0391": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0392": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0393": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0394": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0395": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0396": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0397": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0398": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0399": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0400": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0401": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0402": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0403": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0404": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0405": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0406": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0407": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0408": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0409": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0410": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0411": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0412": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0413": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0414": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0415": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0416": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0417": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0418": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0419": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0420": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0421": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0422": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0423": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0424": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0425": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0426": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0427": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0428": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0429": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0430": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0431": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0432": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0433": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0434": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0435": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0436": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0437": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0438": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0439": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0440": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0441": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0442": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0443": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0444": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0445": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0446": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0447": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0448": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0449": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0450": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0451": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0452": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0453": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0454": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0455": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0456": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0457": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0458": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0459": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0460": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0461": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0462": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0463": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0464": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0465": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0466": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0467": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0468": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0469": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0470": {
+  "state": "CA",
+  "county": null,
+  "city": "Berkeley",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0471": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0472": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0473": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0474": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0475": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0476": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0477": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0478": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0479": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0480": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0481": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0482": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0483": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0484": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0485": {
+  "state": "MA",
+  "county": null,
+  "city": "Cambridge",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0486": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0487": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0488": {
+  "state": "MA",
+  "county": null,
+  "city": "Boston",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0489": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0490": {
+  "state": "NJ",
+  "county": null,
+  "city": "Hoboken",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0491": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0492": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0493": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0494": {
+  "state": "CA",
+  "county": null,
+  "city": "San Francisco",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0495": {
+  "state": "NJ",
+  "county": null,
+  "city": "Jersey City",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0496": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0497": {
+  "state": "CA",
+  "county": null,
+  "city": "San Diego",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0498": {
+  "state": "NJ",
+  "county": null,
+  "city": "Newark",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0499": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ },
+ "A0500": {
+  "state": "CA",
+  "county": null,
+  "city": "Los Angeles",
+  "method": "mailing_city_fallback",
+  "confidence": "low",
+  "note": "Legal city taken from the mailing city because the geocoder gave no result (geocoder skipped). Verify before relying on local rules."
+ }
+}

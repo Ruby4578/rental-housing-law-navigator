@@ -26,7 +26,7 @@ from jsonschema import Draft202012Validator
 load_dotenv()
 
 ROOT = Path(__file__).parent
-SCHEMA_PATH = ROOT / "rule_record_schema.json"
+SCHEMA_PATH = next((p for p in (ROOT / "rule_record_schema.json", ROOT / "rule_record.schema.json") if p.exists()), ROOT / "rule_record_schema.json")
 CORPUS_GLOB = str(ROOT / "corpus" / "text" / "*.txt")
 CACHE_DIR = ROOT / "cache"
 AS_OF = "2026-10-01"
@@ -200,7 +200,7 @@ def main():
                 kept.append(rec)
         print(f"  -> {sum(1 for k in kept if k['source_doc_id'] == doc_id)} kept")
 
-    Path(args.out).write_text(json.dumps(kept, indent=2, ensure_ascii=False))
+    Path(args.out).write_text(json.dumps({"rules": kept}, indent=2, ensure_ascii=False))
     Path("rejected.json").write_text(json.dumps(rejected, indent=2, ensure_ascii=False))
     print(f"\n{len(kept)} rules -> {args.out}; {len(rejected)} rejected -> rejected.json")
 
