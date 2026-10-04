@@ -2177,6 +2177,28 @@
       "source_doc_id": "D067",
       "source_url": "https://www.nj.gov/dca/codes/publications/pdf_lti/t_i_r.pdf",
       "overrides": []
+    },
+    {
+      "jurisdiction": "NJ",
+      "level": "state",
+      "category": "algorithmic_rent_setting",
+      "status": "not_yet_effective",
+      "title": "Forbidding the Algorithmic Inflation of Rent (FAIR) Act",
+      "requirement": "It is unlawful for a rental property owner or a coordinator to use an algorithmic device to coordinate rent prices, material lease terms, or occupancy levels among multiple owners.",
+      "key_value": null,
+      "coverage_conditions": "Rental property owners and coordinators using algorithmic devices to coordinate rent pricing among multiple owners",
+      "exemptions": "Government entities setting or limiting rents through affordability controls in accordance with law",
+      "effective_date": "2027-07-01",
+      "citation": "P.L. 2026, c.043",
+      "quoted_span": "It shall be unlawful and a violation of the “New Jersey Antitrust Act,” P.L.1970, c.73 (C.56:9-1 et seq.) for: a. a rental property owner, or any agent, representative, or subcontractor thereof, to receive, subscribe to, contract for, or otherwise exchange any form of consideration in return for the use of, the services of a coordinator; b. a coordinator to facilitate a tacit or express agreement among rental property owners that restricts competition with respect to residential dwelling units, including by performing a coordinating function;",
+      "confidence": 0.95,
+      "conflict_flag": false,
+      "conflict_note": null,
+      "interaction": "supersedes municipal ordinances that conflict",
+      "team_rule_id": "r-0100",
+      "source_doc_id": "D069",
+      "source_url": "https://pub.njleg.state.nj.us/Bills/2026/AL26/43_.HTM",
+      "overrides": []
     }
   ]
 }

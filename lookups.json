@@ -357,6 +357,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0003": [
@@ -550,6 +556,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -1401,6 +1413,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0009": [
@@ -1695,6 +1713,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0012": [
@@ -1889,6 +1913,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0013": [
@@ -2082,6 +2112,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -2606,6 +2642,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -3188,6 +3230,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -4149,6 +4197,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0027": [
@@ -4459,6 +4513,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0029": [
@@ -4652,6 +4712,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -5126,6 +5192,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -6037,6 +6109,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0041": [
@@ -6347,6 +6425,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0043": [
@@ -6590,6 +6674,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -6999,6 +7089,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0048": [
@@ -7248,6 +7344,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -7558,6 +7660,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -8093,6 +8201,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0058": [
@@ -8402,6 +8516,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -10135,6 +10255,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0077": [
@@ -10378,6 +10504,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -11405,6 +11537,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0088": [
@@ -11715,6 +11853,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0090": [
@@ -11908,6 +12052,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -13097,6 +13247,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0100": [
@@ -13407,6 +13563,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0102": [
@@ -13600,6 +13762,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -14066,6 +14234,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -14657,6 +14831,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0109": [
@@ -15122,6 +15302,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -16101,6 +16287,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0117": [
@@ -16515,6 +16707,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0120": [
@@ -16708,6 +16906,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -17289,6 +17493,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0126": [
@@ -17819,6 +18029,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0130": [
@@ -18012,6 +18228,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -18207,6 +18429,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0132": [
@@ -18400,6 +18628,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -18931,6 +19165,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0137": [
@@ -19124,6 +19364,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -19482,6 +19728,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -20241,6 +20493,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0147": [
@@ -20550,6 +20808,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -22085,6 +22349,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0160": [
@@ -22279,6 +22549,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0161": [
@@ -22472,6 +22748,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -22830,6 +23112,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -23423,6 +23711,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0169": [
@@ -23836,6 +24130,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -24508,6 +24808,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -25195,6 +25501,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0182": [
@@ -25388,6 +25700,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -26019,6 +26337,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0186": [
@@ -26213,6 +26537,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0187": [
@@ -26406,6 +26736,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -27144,6 +27480,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -29039,6 +29381,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0205": [
@@ -29784,6 +30132,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -31417,6 +31771,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0224": [
@@ -31946,6 +32306,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -33865,6 +34231,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0242": [
@@ -34115,6 +34487,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0244": [
@@ -34308,6 +34686,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -34955,6 +35339,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0250": [
@@ -35148,6 +35538,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -35739,6 +36135,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0255": [
@@ -36096,6 +36498,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -36851,6 +37259,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0262": [
@@ -37433,6 +37847,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0265": [
@@ -37627,6 +38047,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0266": [
@@ -37820,6 +38246,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -38295,6 +38727,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0270": [
@@ -38488,6 +38926,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -39701,6 +40145,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0280": [
@@ -40827,6 +41277,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0288": [
@@ -41020,6 +41476,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -41859,6 +42321,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0297": [
@@ -42052,6 +42520,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -42296,6 +42770,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -43087,6 +43567,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0308": [
@@ -43280,6 +43766,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -43695,6 +44187,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0312": [
@@ -43944,6 +44442,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -45399,6 +45903,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0321": [
@@ -45592,6 +46102,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -46183,6 +46699,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0326": [
@@ -46376,6 +46898,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -46851,6 +47379,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0330": [
@@ -47208,6 +47742,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -48013,6 +48553,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0338": [
@@ -48206,6 +48752,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -48781,6 +49333,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0344": [
@@ -48974,6 +49532,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -49565,6 +50129,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0349": [
@@ -50031,6 +50601,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0351": [
@@ -50340,6 +50916,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -51091,6 +51673,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0359": [
@@ -51285,6 +51873,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0360": [
@@ -51478,6 +52072,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -53007,6 +53607,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0372": [
@@ -53200,6 +53806,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -54003,6 +54615,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0378": [
@@ -54484,6 +55102,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -55531,6 +56155,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0389": [
@@ -55725,6 +56355,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0390": [
@@ -55918,6 +56554,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -56345,6 +56987,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0394": [
@@ -56538,6 +57186,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -57353,6 +58007,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0400": [
@@ -57546,6 +58206,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -58028,6 +58694,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -58887,6 +59559,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0411": [
@@ -59353,6 +60031,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0413": [
@@ -59779,6 +60463,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0416": [
@@ -59972,6 +60662,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -60330,6 +61026,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -61183,6 +61885,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0425": [
@@ -61772,6 +62480,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -62855,6 +63569,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0436": [
@@ -63048,6 +63768,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -63406,6 +64132,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -64505,6 +65237,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0448": [
@@ -64698,6 +65436,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -64893,6 +65637,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0450": [
@@ -65086,6 +65836,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -65823,6 +66579,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0456": [
@@ -66413,6 +67175,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0460": [
@@ -66606,6 +67374,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -66916,6 +67690,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -67979,6 +68759,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0472": [
@@ -68172,6 +68958,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -68587,6 +69379,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0476": [
@@ -68780,6 +69578,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -69603,6 +70407,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0483": [
@@ -70367,6 +71177,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0490": [
@@ -70561,6 +71377,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0491": [
@@ -70754,6 +71576,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
@@ -71345,6 +72173,12 @@
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
     "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
+    "conflict_flag": false
    }
   ],
   "A0496": [
@@ -71770,6 +72604,12 @@
     "team_rule_id": "r-0099",
     "result": "unknown",
     "explanation": "Cannot confirm coverage: the conditions mention unit counts and the unit count is not in the data; the conditions mention owner status, which is not in the data.",
+    "conflict_flag": false
+   },
+   {
+    "team_rule_id": "r-0100",
+    "result": "not_yet_effective",
+    "explanation": "Enacted, but it takes effect 2027-07-01.",
     "conflict_flag": false
    }
   ],
