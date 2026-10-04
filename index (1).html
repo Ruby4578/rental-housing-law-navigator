@@ -1,0 +1,321 @@
+<title>Rental Housing Law Navigator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<style>
+/* Layout concept: a reference-desk page. Left rail finds the address and sets the "as of" date;
+   the main pane reads like an annotated statute index, grouped by rule category. */
+:root{
+  --bg:#F2F5F9; --surface:#FFFFFF; --ink:#13202E; --muted:#526379; --line:#D3DBE6; --accent:#0E5A6B; --accent-ink:#FFFFFF; --soft:#E8EEF5;
+  --ok:#0F6244; --ok-bg:#DAF0E6; --unk:#7C5200; --unk-bg:#FAEBC6; --sup:#563F9A; --sup-bg:#E8E2F7;
+  --nye:#1A4F9C; --nye-bg:#DBE8F9; --pen:#434F61; --pen-bg:#E9ECF1; --nc:#59677A; --nc-bg:#EEF1F5;
+  --flag:#8B2A1C; --flag-bg:#FBE4DF;
+  --font-display:"Source Serif 4",Georgia,serif;
+  --font-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0D141C; --surface:#151F2A; --ink:#E5ECF4; --muted:#93A3B7; --line:#273543; --accent:#5DC0D3; --accent-ink:#06222A; --soft:#1B2836;
+    --ok:#7FDDB4; --ok-bg:#12382B; --unk:#F0C772; --unk-bg:#3D2E0C; --sup:#C4B4F6; --sup-bg:#2B2250;
+    --nye:#9BC3F5; --nye-bg:#14294A; --pen:#B4BFCE; --pen-bg:#222E3B; --nc:#93A3B7; --nc-bg:#1B2633;
+    --flag:#F4A798; --flag-bg:#431D16; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0D141C; --surface:#151F2A; --ink:#E5ECF4; --muted:#93A3B7; --line:#273543; --accent:#5DC0D3; --accent-ink:#06222A; --soft:#1B2836;
+  --ok:#7FDDB4; --ok-bg:#12382B; --unk:#F0C772; --unk-bg:#3D2E0C; --sup:#C4B4F6; --sup-bg:#2B2250;
+  --nye:#9BC3F5; --nye-bg:#14294A; --pen:#B4BFCE; --pen-bg:#222E3B; --nc:#93A3B7; --nc-bg:#1B2633;
+  --flag:#F4A798; --flag-bg:#431D16; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:15px;line-height:1.5;padding-inline:16px;padding-block:0 40px}
+.wrap{max-width:1120px;margin-inline:auto}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 16px;padding-block:20px 12px}
+.brand{font-family:var(--font-display);font-size:1.6rem;font-weight:600;letter-spacing:-.01em;margin:0}
+.stamp{font-family:var(--font-mono);font-size:.75rem;color:var(--muted)}
+.notice{display:flex;flex-direction:column;gap:4px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:6px;padding:12px 14px;font-size:.88rem;color:var(--muted)}
+.notice strong{color:var(--ink)}
+.empty{background:var(--unk-bg);color:var(--unk);border-radius:6px;padding:12px 14px;margin-top:12px;font-size:.9rem}
+.empty code{background:transparent}
+.tabs{display:flex;gap:4px;margin-top:20px;border-bottom:1px solid var(--line)}
+.tab{background:none;border:0;border-bottom:3px solid transparent;padding:10px 14px;cursor:pointer;color:var(--muted);font-weight:500}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.layout{display:grid;grid-template-columns:320px minmax(0,1fr);gap:24px;margin-top:20px;align-items:start}
+@media (max-width:860px){.layout{grid-template-columns:minmax(0,1fr)}}
+.rail{display:flex;flex-direction:column;gap:16px;min-width:0}
+h2{font-family:var(--font-display);font-size:1.05rem;font-weight:600;margin:0 0 8px}
+.field{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:12px}
+.field label{display:block;font-size:.8rem;color:var(--muted);margin-bottom:4px}
+.field input,.field select{width:100%;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:7px 8px}
+.seg{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+.seg button,.quick button{background:var(--soft);border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:.78rem;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.quick{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.addr-list{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none;max-height:520px;overflow-y:auto}
+.addr{width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 11px;cursor:pointer}
+.addr[aria-pressed="true"]{border-color:var(--accent);box-shadow:inset 3px 0 0 var(--accent);background:var(--soft)}
+.addr b{display:block;font-weight:600;font-size:.88rem;overflow-wrap:anywhere}
+.addr span{display:block;font-size:.78rem;color:var(--muted)}
+.count{font-size:.8rem;color:var(--muted);margin:6px 0 0}
+.pane{min-width:0;display:flex;flex-direction:column;gap:20px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px 16px;margin:0}
+.facts dt{font-size:.74rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+.facts dd{margin:2px 0 0;font-weight:500;font-variant-numeric:tabular-nums;overflow-wrap:anywhere}
+.facts .miss{color:var(--unk)}
+.stack{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:12px 0 0;padding:0;list-style:none}
+.stack li{background:var(--soft);border-radius:4px;padding:3px 9px;font-size:.85rem}
+.stack li+li::before{content:"\203A";margin-right:8px;color:var(--muted)}
+.summary{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.asof-line{font-size:.85rem;color:var(--muted)}
+.chip{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:2px 10px 2px 8px;font-size:.78rem;font-weight:600;white-space:nowrap;border:1px solid transparent}
+.chip i{font-style:normal;font-family:var(--font-mono)}
+.r-applies{background:var(--ok-bg);color:var(--ok)}
+.r-unknown{background:var(--unk-bg);color:var(--unk)}
+.r-superseded{background:var(--sup-bg);color:var(--sup)}
+.r-not_yet_effective{background:var(--nye-bg);color:var(--nye)}
+.r-pending{background:var(--pen-bg);color:var(--pen);border:1px dashed var(--pen)}
+.r-none{background:var(--nc-bg);color:var(--nc)}
+.cat h3{font-family:var(--font-display);font-size:1.15rem;font-weight:600;margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.rule{padding:12px 0;border-bottom:1px solid var(--line)}
+.rule:last-child{border-bottom:0}
+.rule-head{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;justify-content:space-between}
+.rule-title{font-weight:600}
+.req{margin:6px 0 0}
+.key{font-family:var(--font-mono);font-size:.82rem;background:var(--soft);display:inline-block;padding:1px 7px;border-radius:4px;margin-top:6px}
+.why{margin:6px 0 0;color:var(--muted);font-size:.88rem}
+.flag{margin:8px 0 0;background:var(--flag-bg);color:var(--flag);border-radius:4px;padding:6px 10px;font-size:.85rem}
+.none{color:var(--muted);font-size:.9rem;margin:0}
+details.src{margin-top:8px;font-size:.85rem}
+details.src summary{cursor:pointer;color:var(--accent);width:max-content;max-width:100%}
+.src-body{margin-top:6px;padding:10px 12px;background:var(--soft);border-radius:6px;display:grid;gap:6px;min-width:0}
+.cite{font-family:var(--font-mono);font-size:.8rem;overflow-wrap:anywhere}
+.quote{font-style:italic;border-left:3px solid var(--line);padding-left:10px;overflow-wrap:anywhere}
+.src-body a{color:var(--accent);overflow-wrap:anywhere}
+.sc-pick{display:flex;flex-wrap:wrap;gap:6px}
+.sc-pick button{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:6px 12px;cursor:pointer;font-weight:500}
+.sc-pick button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.sc-title{font-family:var(--font-display);font-size:1.25rem;margin:0 0 4px}
+.big{font-family:var(--font-display);font-size:2rem;line-height:1;font-variant-numeric:tabular-nums}
+.stats{display:flex;flex-wrap:wrap;gap:8px 28px;align-items:baseline;margin-bottom:12px}
+.tbl{overflow:auto;max-height:480px}
+table{width:100%;border-collapse:collapse;font-size:.86rem}
+th{text-align:left;font-size:.74rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);padding:6px 10px 6px 0;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--surface)}
+td{padding:7px 10px 7px 0;border-bottom:1px solid var(--line);vertical-align:top}
+footer{margin-top:32px;font-size:.82rem;color:var(--muted);display:grid;gap:6px}
+code{font-family:var(--font-mono);font-size:.85em}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1 class="brand">Rental Housing Law Navigator</h1>
+    <span class="stamp" id="stamp"></span>
+  </header>
+  <div class="notice" role="note">
+    <span><strong>Not legal advice.</strong> This tool summarizes public law to help you understand it. It is not a legal opinion or a compliance check. Ask a qualified attorney or your local housing agency before you act.</span>
+    <span>Every rule links to its source text and retrieval date. Where the data lacks a fact, the answer is "unknown".</span>
+  </div>
+  <div id="status"></div>
+
+  <div class="tabs" role="tablist" aria-label="Views">
+    <button class="tab" role="tab" id="tab-lookup" aria-selected="true" aria-controls="view-lookup">Address lookup</button>
+    <button class="tab" role="tab" id="tab-changes" aria-selected="false" aria-controls="view-changes">What is changing</button>
+  </div>
+
+  <section id="view-lookup" role="tabpanel" aria-labelledby="tab-lookup">
+    <div class="layout">
+      <aside class="rail">
+        <div class="field">
+          <label for="q">Find an address</label>
+          <input id="q" type="search" placeholder="Street, city or ID" autocomplete="off">
+          <div class="seg" id="st-seg"></div>
+          <p class="count" id="count"></p>
+        </div>
+        <div class="field">
+          <label for="asof">Show the rules as of</label>
+          <input type="date" id="asof">
+          <div class="quick" id="quick"></div>
+        </div>
+        <ul class="addr-list" id="addr-list"></ul>
+      </aside>
+      <div class="pane" id="detail" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section id="view-changes" role="tabpanel" aria-labelledby="tab-changes" hidden>
+    <div class="pane" style="margin-top:20px">
+      <div><h2>Pick a change to test</h2><div class="sc-pick" id="sc-pick"></div></div>
+      <div id="sc-out"></div>
+    </div>
+  </section>
+
+  <footer>
+    <span><b>Applies</b>: in force and covers this address. <b>Unknown</b>: depends on a fact the data lacks. <b>Superseded</b>: a stricter rule at another level governs. <b>Not yet effective</b>: enacted, starts later. <b>Pending</b>: a bill, not law.</span>
+    <span>Data is read from <code>data.json</code>, built by <code>extract.py</code> and <code>lookup.py</code>. Nothing on this page is typed in by hand.</span>
+  </footer>
+</div>
+
+<script>
+const RESULT={applies:['✓','Applies'],unknown:['?','Unknown'],superseded:['↓','Superseded'],not_yet_effective:['◷','Not yet effective'],pending:['◌','Pending'],none:['–','None']};
+const CATNAMES={rent_increase_limits:'Rent increase limits',just_cause_eviction:'Just-cause eviction',security_deposits:'Security deposits',application_screening_fees:'Application and screening fees',screening_restrictions:'Screening restrictions',algorithmic_rent_setting:'Algorithmic rent-setting'};
+const STATE_NAMES={CA:'California',NJ:'New Jersey',MA:'Massachusetts'};
+let D=null, RULES={}, ADDR={};
+const S={q:'',st:'ALL',sel:null,asof:null,sc:null};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function fmt(s){
+  if(!s) return '';
+  const p=String(s).split('-'), M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  if(p.length===1) return p[0];
+  if(p.length===2) return M[+p[1]-1]+' '+p[0];
+  return M[+p[1]-1]+' '+(+p[2])+', '+p[0];
+}
+function chip(res){const r=RESULT[res]||['?',res];return '<span class="chip r-'+esc(res)+'"><i aria-hidden="true">'+r[0]+'</i>'+esc(r[1])+'</span>';}
+function epochFor(d){
+  let best=D.epochs[0];
+  D.epochs.forEach(e=>{if(e.from<=d) best=e;});
+  return best;
+}
+function safeUrl(u){return /^https?:\/\//i.test(u||'')?u:null;}
+function cityLine(a){const r=a.resolved||{};return r.city?(r.city+', '+a.state):('No city found, '+a.state);}
+
+function showStatus(){
+  const el=document.getElementById('status');
+  if(!D.rules.length){
+    el.innerHTML='<div class="empty"><b>No rules are loaded yet.</b> The addresses below are real, but the rules come from the extraction step. Run <code>extract.py</code> to produce <code>rules.json</code>, then <code>lookup.py</code> to rebuild <code>data.json</code>.</div>';
+    return;
+  }
+  const low=D.addresses.filter(a=>a.resolved&&a.resolved.confidence==='low').length;
+  el.innerHTML=low?'<div class="empty"><b>'+low+' of '+D.addresses.length+' addresses use a low-confidence city.</b> The Census Geocoder gave no result for them, so the legal city was taken from the mailing city. Local rules for those addresses should be verified. Rerun <code>lookup.py</code> with network access to fix this.</div>':'';
+}
+
+function filtered(){
+  const q=S.q.trim().toLowerCase();
+  return D.addresses.filter(a=>(S.st==='ALL'||a.state===S.st)&&(!q||(a.street_address+' '+a.postal_city+' '+a.address_id+' '+((a.resolved&&a.resolved.city)||'')).toLowerCase().includes(q)));
+}
+function renderList(){
+  const f=filtered(), shown=f.slice(0,80);
+  document.getElementById('count').textContent=f.length+' of '+D.addresses.length+' addresses'+(f.length>shown.length?' (showing the first '+shown.length+')':'');
+  document.getElementById('addr-list').innerHTML=shown.map(a=>'<li><button type="button" class="addr" data-id="'+esc(a.address_id)+'" aria-pressed="'+(a.address_id===S.sel)+'"><b>'+esc(a.street_address)+'</b><span>'+esc(a.postal_city)+', '+esc(a.state)+' '+esc(a.zip)+' · '+esc(a.address_id)+'</span></button></li>').join('');
+}
+
+function ruleHtml(it){
+  const r=RULES[it.team_rule_id]; if(!r) return '';
+  let h='<div class="rule"><div class="rule-head"><span class="rule-title">'+esc(r.title)+'</span>'+chip(it.result)+'</div>';
+  h+='<p class="req">'+esc(r.requirement)+'</p>';
+  if(r.key_value) h+='<span class="key">'+esc(r.key_value)+'</span>';
+  h+='<p class="why">'+esc(it.explanation)+'</p>';
+  if(it.conflict_flag) h+='<p class="flag"><b>Needs human review.</b> '+esc(r.conflict_note||'This rule may conflict with another rule that covers this address.')+'</p>';
+  else if(r.conflict_flag&&r.conflict_note) h+='<p class="flag"><b>Open question.</b> '+esc(r.conflict_note)+'</p>';
+  const u=safeUrl(r.source_url);
+  h+='<details class="src"><summary>Source and quote</summary><div class="src-body">';
+  h+='<span class="cite">'+esc(r.citation)+'</span>';
+  h+='<span>'+(r.effective_date?'Effective '+esc(fmt(r.effective_date))+' · ':'')+(r.source_doc_id?'Document '+esc(r.source_doc_id)+' · ':'')+(r.retrieved_at?'retrieved '+esc(r.retrieved_at):'')+(typeof r.confidence==='number'?' · model confidence '+Math.round(r.confidence*100)+'%':'')+'</span>';
+  h+='<span class="quote">'+esc(r.quoted_span)+'</span>';
+  if(u) h+='<a href="'+esc(u)+'" target="_blank" rel="noopener">Open the source</a>';
+  h+='</div></details></div>';
+  return h;
+}
+
+function renderDetail(){
+  const el=document.getElementById('detail');
+  const a=ADDR[S.sel];
+  if(!a){el.innerHTML='<div class="card"><p class="none">Choose an address on the left to see which rules apply to it.</p></div>';return;}
+  const ep=epochFor(S.asof), items=ep.lookups[a.address_id]||[], r=a.resolved||{};
+  const counts={}; items.forEach(i=>counts[i.result]=(counts[i.result]||0)+1);
+  let h='<div class="card"><h2 style="margin-bottom:12px">'+esc(a.street_address)+'</h2><dl class="facts">';
+  h+='<div><dt>Mailing city</dt><dd>'+esc(a.postal_city)+', '+esc(a.state)+' '+esc(a.zip)+'</dd></div>';
+  h+='<div><dt>Legal city</dt><dd class="'+(r.city?'':'miss')+'">'+esc(r.city||'None found')+'</dd></div>';
+  h+='<div><dt>Year built</dt><dd class="'+(a.year_built==null?'miss':'')+'">'+(a.year_built==null?'Not in data':esc(a.year_built))+'</dd></div>';
+  h+='<div><dt>Units</dt><dd class="'+(a.units==null?'miss':'')+'">'+(a.units==null?'Not in data':esc(a.units))+'</dd></div>';
+  h+='<div><dt>Owner type</dt><dd class="miss">Not in data</dd></div></dl>';
+  const stack=[STATE_NAMES[a.state]||a.state]; if(r.county) stack.push(r.county); if(r.city) stack.push(r.city);
+  h+='<ol class="stack" aria-label="Jurisdiction stack">'+stack.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol>';
+  if(r.confidence==='low') h+='<p class="flag" style="margin-top:12px"><b>Low-confidence city.</b> '+esc(r.note||'')+'</p>';
+  else if(r.note) h+='<p class="why">'+esc(r.note)+'</p>';
+  h+='<p class="why">Facts from '+esc(a.source_dataset)+', retrieved '+esc(a.retrieved_at)+'.</p></div>';
+  h+='<div class="card"><div class="summary"><span class="asof-line">As of <b>'+esc(fmt(S.asof))+'</b>:</span>';
+  ['applies','unknown','superseded','not_yet_effective','pending'].forEach(k=>{if(counts[k]) h+=chip(k).replace(/<\/span>$/,' · '+counts[k]+'</span>');});
+  if(!items.length) h+='<span class="none">'+(D.rules.length?'No rules found for this address.':'No rules loaded.')+'</span>';
+  h+='</div></div><div class="card">';
+  D.categories.forEach(c=>{
+    const list=items.filter(i=>RULES[i.team_rule_id]&&RULES[i.team_rule_id].category===c);
+    h+='<div class="cat" style="margin-bottom:18px"><h3>'+esc(CATNAMES[c]||c)+'</h3>';
+    h+=list.length?list.map(ruleHtml).join(''):'<p class="none">'+(D.rules.length?'No rule in the corpus at any level for this address.':'Waiting for extraction.')+'</p>';
+    h+='</div>';
+  });
+  h+='</div>';
+  el.innerHTML=h;
+}
+
+function renderScenario(){
+  const out=document.getElementById('sc-out');
+  const t=D.tests.find(x=>x.test_id===S.sc);
+  if(!t){out.innerHTML='<div class="card"><p class="none">No change tests were loaded.</p></div>';return;}
+  const c=D.changes[t.test_id]||{affected_address_ids:[],notes:''};
+  const d1=t.as_of_before||t.as_of||D.default_as_of, d2=t.as_of_after||t.as_of||D.default_as_of;
+  const matched=Object.values(c.matched_rules||{});
+  const flagged=new Set(c.conflict_flag_address_ids||[]);
+  let h='<div class="card"><h3 class="sc-title">'+esc(t.test_id)+' · '+esc(t.title)+'</h3><p class="why" style="margin:0">'+esc(t.expected_behavior||'')+'</p></div>';
+  h+='<div class="card"><div class="stats"><div><span class="big">'+c.affected_address_ids.length+'</span> <span class="why">affected addresses</span></div>';
+  if(t.conflict_with) h+='<div><span class="big">'+flagged.size+'</span> <span class="why">flagged for human review</span></div>';
+  h+='</div>';
+  if(!matched.length&&D.rules.length) h+='<p class="flag">None of the rules this test needs were found in rules.json. '+esc(c.notes||'')+'</p>';
+  else if(!D.rules.length) h+='<p class="none">Waiting for extraction.</p>';
+  if(t.test_id==='T5') h+='<p class="why">An empty result is correct here: the ballot question was struck, so no rent cap applies in Boston or Cambridge.</p>';
+  if(c.affected_address_ids.length){
+    const dates=(d1===d2)?[d1]:[d1,d2];
+    h+='<div class="tbl"><table><thead><tr><th>Address</th><th>City</th>'+dates.map(d=>'<th>As of '+esc(fmt(d))+'</th>').join('')+(t.conflict_with?'<th>Review</th>':'')+'</tr></thead><tbody>';
+    c.affected_address_ids.slice(0,300).forEach(id=>{
+      const a=ADDR[id]; if(!a) return;
+      h+='<tr><td>'+esc(a.street_address)+'<br><span class="why">'+esc(id)+'</span></td><td>'+esc(cityLine(a))+'</td>';
+      dates.forEach(d=>{
+        const its=(epochFor(d).lookups[id]||[]).filter(i=>matched.includes(i.team_rule_id));
+        h+='<td>'+(its.length?its.map(i=>chip(i.result)).join(' '):chip('none'))+'</td>';
+      });
+      if(t.conflict_with) h+='<td>'+(flagged.has(id)?'<span class="chip r-unknown">Possible conflict</span>':'')+'</td>';
+      h+='</tr>';
+    });
+    h+='</tbody></table></div>';
+    if(c.affected_address_ids.length>300) h+='<p class="count">Showing the first 300 of '+c.affected_address_ids.length+'.</p>';
+  }
+  h+='</div>';
+  out.innerHTML=h;
+}
+
+function renderPick(){
+  document.getElementById('sc-pick').innerHTML=D.tests.map(t=>'<button type="button" data-id="'+esc(t.test_id)+'" aria-pressed="'+(t.test_id===S.sc)+'">'+esc(t.test_id)+'</button>').join('')||'<span class="none">No change tests loaded.</span>';
+}
+
+function init(){
+  RULES=Object.fromEntries(D.rules.map(r=>[r.team_rule_id,r]));
+  ADDR=Object.fromEntries(D.addresses.map(a=>[a.address_id,a]));
+  S.asof=D.default_as_of; S.sc=D.tests[0]&&D.tests[0].test_id;
+  document.getElementById('stamp').textContent='Data built '+(D.generated_at||'').slice(0,10);
+  document.getElementById('asof').value=S.asof;
+  const states=['ALL'].concat([...new Set(D.addresses.map(a=>a.state))].sort());
+  const seg=document.getElementById('st-seg');
+  const drawSeg=()=>{seg.innerHTML=states.map(s=>'<button type="button" data-s="'+s+'" aria-pressed="'+(S.st===s)+'">'+(s==='ALL'?'All':s)+'</button>').join('');};
+  drawSeg();
+  const qd=['2025-12-31',D.default_as_of,'2027-07-02'];
+  document.getElementById('quick').innerHTML=qd.map(d=>'<button type="button" data-d="'+d+'">'+esc(fmt(d))+'</button>').join('');
+  showStatus(); renderList(); renderDetail(); renderPick(); renderScenario();
+  document.getElementById('q').addEventListener('input',e=>{S.q=e.target.value;renderList();});
+  seg.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;S.st=b.dataset.s;drawSeg();renderList();});
+  document.getElementById('addr-list').addEventListener('click',e=>{const b=e.target.closest('.addr');if(!b)return;S.sel=b.dataset.id;renderList();renderDetail();});
+  const asofEl=document.getElementById('asof');
+  asofEl.addEventListener('change',()=>{if(asofEl.value){S.asof=asofEl.value;renderDetail();}});
+  document.getElementById('quick').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;S.asof=b.dataset.d;asofEl.value=S.asof;renderDetail();});
+  document.getElementById('sc-pick').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;S.sc=b.dataset.id;renderPick();renderScenario();});
+  const tabs={lookup:document.getElementById('tab-lookup'),changes:document.getElementById('tab-changes')};
+  const views={lookup:document.getElementById('view-lookup'),changes:document.getElementById('view-changes')};
+  Object.keys(tabs).forEach(k=>tabs[k].addEventListener('click',()=>{Object.keys(tabs).forEach(j=>{tabs[j].setAttribute('aria-selected',String(j===k));views[j].hidden=(j!==k);});}));
+}
+
+fetch('data.json').then(r=>{if(!r.ok) throw new Error('HTTP '+r.status);return r.json();}).then(d=>{D=d;init();}).catch(err=>{
+  document.getElementById('status').innerHTML='<div class="empty"><b>data.json could not be loaded</b> ('+esc(err.message)+'). Run <code>python extract.py</code> and <code>python lookup.py</code>, then publish <code>site/data.json</code> next to this page.</div>';
+});
+</script>
